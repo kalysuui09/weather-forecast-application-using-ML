@@ -1,1 +1,1 @@
-# whether-forecast-application-using-ML
+# wheather-forecast-application-using-ML
