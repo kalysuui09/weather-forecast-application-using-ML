@@ -1,1 +1,1 @@
-# wheather-forecast-application-using-ML
+# weather-forecast-application-using-ML
